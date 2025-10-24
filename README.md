@@ -25,10 +25,3 @@ The goal of this project is to develop a complete Java application — from game
 
 ![Undo Redo Demo](img/undo_redo.gif)
 ---
-
-## Installation & Execution
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/oxono.git
-   cd oxono
-   mvn clean javafx:run
