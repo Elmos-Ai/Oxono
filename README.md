@@ -23,7 +23,7 @@ The goal of this project is to develop a complete Java application — from game
 
 ## Preview
 
-![Undo Redo Demo](oxono-img/undo_redo.gif)
+![Undo Redo Demo](img/undo_redo.gif)
 ---
 
 ## Installation & Execution
